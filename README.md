@@ -15,7 +15,7 @@ R Programming: Machine Learning, Data Analysis, Visualization
 
 ML Techniques: Classification, Feature Selection, Model Evaluation
 
-## Data Processing: Image data handling, normalization, augmentation
+Data Processing: Image data handling, normalization, augmentation
 
 ## How to Run
 Ensure R and required packages are installed
